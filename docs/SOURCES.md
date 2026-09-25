@@ -25,9 +25,9 @@ Verification date: 25 September 2026. The original guide is a preserved user-sup
 
 ## Local continuity references
 
-The private Baker PDF is at `/Users/felipefritsch/Documents/Recruiting 2026/Firm Mateiral/Jump Trading’s Lucas Baker on AI Agents - by Matt Robinson.pdf`.
+The Baker interview was reviewed using a privately held PDF copy of the source linked above. That copy is not distributed with this repository.
 
-The factor guide is `/Users/felipefritsch/Documents/dev/quant-research-agent/FACTOR_EVALUATION_GUIDE.md`. The existing project's charter and state were inspected only; neither was modified. The source interview does not authorize attribution of our proposed architecture to Jump Trading.
+The Factor Evaluation Guide (`FACTOR_EVALUATION_GUIDE.md`) belongs to the separate `quant-research-agent` study and is not distributed with this repository. The existing project's charter and state were inspected only; neither was modified. The source interview does not authorize attribution of our proposed architecture to Jump Trading.
 
 ## Study selection
 
