@@ -1,0 +1,19 @@
+{
+  "live_enabled": false,
+  "approved_budget_usd": null,
+  "provider": "openrouter",
+  "roles": [
+    "router",
+    "extractor",
+    "critic",
+    "synthesizer"
+  ],
+  "selected_models": [],
+  "candidate_diffusion_models": [
+    "inception/mercury-2.5",
+    "inception/mercury-2"
+  ],
+  "catalogue_snapshot": "data/openrouter_catalogue.json",
+  "repeats_provisional": 3,
+  "status": "NOT RUN; budget and provider pairs pending"
+}

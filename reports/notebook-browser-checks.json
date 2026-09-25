@@ -1,0 +1,66 @@
+[
+  {
+    "file": "01-research-loop.html",
+    "title": "01 · The score must mean the right thing¶",
+    "images": 1,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  },
+  {
+    "file": "02-decisions.html",
+    "title": "02 · Prediction becomes a decision through losses¶",
+    "images": 1,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  },
+  {
+    "file": "03-investigation.html",
+    "title": "03 · Available context is not observed context¶",
+    "images": 1,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  },
+  {
+    "file": "04-harness.html",
+    "title": "04 · Recover work without pretending every action is atomic¶",
+    "images": 0,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  },
+  {
+    "file": "05-quant-validity.html",
+    "title": "05 · Temporal splitting cannot repair a future-leaking feature¶",
+    "images": 1,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  },
+  {
+    "file": "06-evolution.html",
+    "title": "06 · Selection can reward a shortcut¶",
+    "images": 1,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  },
+  {
+    "file": "07-synthesis.html",
+    "title": "07 · Transfer evidence bookkeeping to public releases¶",
+    "images": 0,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  },
+  {
+    "file": "08-model-efficiency.html",
+    "title": "08 · OpenRouter model economics and diffusion candidates¶",
+    "images": 1,
+    "broken": 0,
+    "overflow": false,
+    "errors": 0
+  }
+]

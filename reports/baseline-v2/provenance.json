@@ -1,0 +1,15 @@
+{
+  "code": {
+    "openrouter.py": "bad1bd55360dae7ce69eeec4de015172fe061590518b78f4e613046b87e2cbd5",
+    "evolution.py": "5a3630881b23fceebc6d24e49021d924ed8f6b21d5ec7578ef0a287504196ba0",
+    "decisions.py": "f5c6b6168fca82b402b69db39cafd9be430216c4f4790b066c7eae4291ad4af9",
+    "__init__.py": "bacc5cc181964aaba90554ea8fdb65e8c3f1c2fd0624b37843ad79e83425f2e4",
+    "core.py": "6ecf57cf886f6c55fa1c5607e5d61520309f524374ffc94fdd2798ed489338d8",
+    "investigation.py": "8d95d881498a232755f42a26b902c82b272f5c68c0ef7149cb2ab7ddfa7fae26",
+    "quant.py": "203459a1dcb31892ceda28e2691320c58832be5cb74758e2341a8a3918da1b10",
+    "demo.py": "68727ebc9c47740d599676a124fc2984eb4d88844187105c2a8b639c85e30415"
+  },
+  "panel_hash": "be7e9f58da0fe2fff39786237e13721f0fa49dd1cb0fc580f58cb0ab9ab36459",
+  "results_hash": "c965a13836293c97d6a3e8bc673d54f070d3492325a626217bd9e820c500f848",
+  "evaluation_status": "diagnostic; visible transfer consumed"
+}

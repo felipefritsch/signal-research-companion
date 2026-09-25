@@ -1,0 +1,104 @@
+{
+  "version": "earnings-v1",
+  "cutoff_date": "2026-09-24",
+  "selection": "Two latest quarterly earnings releases per specified issuer at cutoff; fiscal labels preserved",
+  "frozen_before_processing": true,
+  "records": [
+    {
+      "id": "AAPL-FY2026Q2",
+      "issuer": "AAPL",
+      "period": "FY2026Q2",
+      "release_date": "2026-04-30",
+      "url": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
+      "available_at_intraday": null
+    },
+    {
+      "id": "AAPL-FY2026Q3",
+      "issuer": "AAPL",
+      "period": "FY2026Q3",
+      "release_date": "2026-07-30",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "available_at_intraday": null
+    },
+    {
+      "id": "MSFT-FY2026Q3",
+      "issuer": "MSFT",
+      "period": "FY2026Q3",
+      "release_date": "2026-04-29",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q3/press-release-webcast",
+      "available_at_intraday": null
+    },
+    {
+      "id": "MSFT-FY2026Q4",
+      "issuer": "MSFT",
+      "period": "FY2026Q4",
+      "release_date": "2026-07-29",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast",
+      "available_at_intraday": null
+    },
+    {
+      "id": "GOOG-2026Q1",
+      "issuer": "GOOG",
+      "period": "2026Q1",
+      "release_date": "2026-04-29",
+      "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q1/2026q1-alphabet-earnings-release.pdf",
+      "available_at_intraday": null
+    },
+    {
+      "id": "GOOG-2026Q2",
+      "issuer": "GOOG",
+      "period": "2026Q2",
+      "release_date": "2026-07-22",
+      "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf",
+      "available_at_intraday": null
+    },
+    {
+      "id": "AMZN-2026Q1",
+      "issuer": "AMZN",
+      "period": "2026Q1",
+      "release_date": "2026-04-29",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/default.aspx",
+      "available_at_intraday": null
+    },
+    {
+      "id": "AMZN-2026Q2",
+      "issuer": "AMZN",
+      "period": "2026Q2",
+      "release_date": "2026-07-30",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx?mode=light",
+      "available_at_intraday": null
+    },
+    {
+      "id": "META-2026Q1",
+      "issuer": "META",
+      "period": "2026Q1",
+      "release_date": "2026-04-29",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/",
+      "available_at_intraday": null
+    },
+    {
+      "id": "META-2026Q2",
+      "issuer": "META",
+      "period": "2026Q2",
+      "release_date": "2026-07-29",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/",
+      "available_at_intraday": null
+    },
+    {
+      "id": "NVDA-FY2027Q1",
+      "issuer": "NVDA",
+      "period": "FY2027Q1",
+      "release_date": "2026-05-20",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx",
+      "available_at_intraday": null
+    },
+    {
+      "id": "NVDA-FY2027Q2",
+      "issuer": "NVDA",
+      "period": "FY2027Q2",
+      "release_date": "2026-08-26",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+      "available_at_intraday": null
+    }
+  ]
+}

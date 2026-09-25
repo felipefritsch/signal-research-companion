@@ -1,0 +1,29 @@
+{
+  "spec": {
+    "id": "final-offline",
+    "hypothesis": "Demonstrate information and selection failures",
+    "variant": "fixed-teaching-examples",
+    "seed": 7,
+    "purpose": "diagnostic",
+    "data_version": "synthetic-v2"
+  },
+  "run": {
+    "id": "final-offline",
+    "status": "completed",
+    "metrics": {},
+    "evidence_ids": [
+      "synthetic-v2"
+    ],
+    "unresolved": [
+      "All transfer examples visible; no model-performance or alpha inference"
+    ],
+    "resources": {
+      "api_calls": 0,
+      "api_cost_usd": 0
+    },
+    "versions": {
+      "python": "3.12.14",
+      "spec_hash": "010ed76274457d2be80986d1203575b0466c7308d792e97fdead25c1f9b44cdf"
+    }
+  }
+}
